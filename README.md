@@ -8,7 +8,7 @@ with a strong understanding of software principles and best practices.</p>
    <li>Blockchain Development.</li>
    <li>Smart Contract Development</li>
    <li>DApp Development</li>
-   <li>Expert in Python programming</li>
+   <li>Expertise in Python</li>
   </ui>
   <li>If you're looking for a blockchain or Python software developer who is
 passionated, detail-oriented, and constantly strives for excellence, feel
