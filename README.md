@@ -1,8 +1,8 @@
 
 ### PROFESSIONAL BLOCKCHAIN AND AI DEVELOPER
  <p dir="auto">
-  <p>Hi! My name is Top. I'm a passionate and experienced <strong>Blockchain</strong> and <strong>AI</strong> software development
-with a strong understanding of principles and best practices.</p>
+  <p>Hi! My name is Top. I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer.
+with a strong understanding of software principles and best practices.</p>
   <p>Here's what you can expect from me:</p>
   <ui>
    <li>Blockchain Development.</li>
@@ -10,8 +10,8 @@ with a strong understanding of principles and best practices.</p>
    <li>DApp Development</li>
    <li>Expert in Python programming</li>
   </ui>
-  <li>If you're looking for a blockchain or AI software developer who is
-passionate, detail-oriented, and constantly strives for excellence, feel
+  <li>If you're looking for a blockchain or Python software developer who is
+passionated, detail-oriented, and constantly strives for excellence, feel
 free to reach out. Let's discuss how I can contribute to your project's
 success!</li>
  </p>
