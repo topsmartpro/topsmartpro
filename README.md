@@ -1,8 +1,7 @@
 
-### SENIOR BLOCKCHAIN AND PYTHON DEVELOPER (Slogan : Promise is law)
+### SENIOR BLOCKCHAIN AND PYTHON DEVELOPER
  <p dir="auto">
-  <p>I share my birthday, 5th Feb, with Cristiano Ronaldo, whom I admire. Just as he excels in football, I aspire to become a renowned software engineer. Follow my journey on GitHub!</p>
-  <p>I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer
+  <p>My name is Top. I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer
 with a strong understanding of software development principles and
 best practices.</p>
   <p>Here's what you can expect from me:</p>
@@ -42,6 +41,4 @@ success!</li>
     </p>
     
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/sasuke031026/sasuke031026/blob/main/shake.gif" data-target="animated-image.originalLink"><img src="https://github.com/sasuke031026/sasuke031026/raw/main/shake.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-<p><strong>Telegram</strong> : https://t.me/smartdev0205</p>
-<p><strong>Email</strong> : promiseislaw@gmail.com </p>
-<p><strong>Discord</strong> : promise0205</p>
+<p><strong>Email</strong> : topsmartpro@prolocalize.com</p>
