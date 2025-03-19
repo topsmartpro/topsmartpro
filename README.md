@@ -1,7 +1,7 @@
 
 ### SENIOR BLOCKCHAIN AND PYTHON DEVELOPER
  <p dir="auto">
-  <p>My name is Top. I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer
+  <p>Hi! My name is Top. I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer
 with a strong understanding of software development principles and
 best practices.</p>
   <p>Here's what you can expect from me:</p>
