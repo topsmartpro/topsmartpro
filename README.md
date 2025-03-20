@@ -1,7 +1,7 @@
 
 <h2>🖥️ SUPER BLOCKCHAIN AND PYTHON DEVELOPER</h2>
  <p dir="auto">
-  <p>Hi! I'm Top. Welcome to my Github Page. I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer
+  <p>Hi! I'm Top. Welcome to my Github page I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer
 with a strong understanding of software principles and best practices.</p>
   <p>Here's what you can expect from me:</p>
   <ui>
