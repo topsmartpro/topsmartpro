@@ -35,7 +35,7 @@ success!</li>
     <p dir="auto">
      <ui>
       <li><strong>Languages</strong>: Solidity,Web3 , Solana , Rust , Golang , python</li>
-      <li><strong>Blockchains</strong>:EVM, Solana, SUI</li>
+      <li><strong>Blockchains</strong>: EVM, Solana, SUI</li>
      </ui>
     </p>
     
